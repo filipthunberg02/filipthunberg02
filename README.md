@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there, I’m Filip Thunberg 👋
 
-<!--
-**filipthunberg02/filipthunberg02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a recent graduate in Engineering and Computer Science, passionate about building scalable software and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+
+- ✉️ Email: [filip.thunberg02@outlook.com](mailto:filip.thunberg02@outlook.com)  
+- 🔗 LinkedIn: [filip-thunberg](https://www.linkedin.com/in/filip-thunberg)  
+- 🐙 GitHub: [filipthunberg02](https://github.com/filipthunberg02)  
+
+---
+
+## 🎓 Education
+
+**Halmstad University**  
+*Bachelor of Science in Engineering and Computer Science*  
+_August 2022 – June 2025_  
+
+**Related Coursework:**
+- Algorithms & Data Structures  
+- Advanced Object-Oriented Programming  
+- Programming of Distributed Systems  
+- Data Communication  
+
+---
+
+## 💻 Technical Skills
+
+| Programming Languages | Tools & Technologies               |
+| --------------------- | ---------------------------------- |
+| Python                | Git, Linux                         |
+| Java                  | SQL (MySQL, PostgreSQL)            |
+| C                     | MATLAB, Mathematica                |
+
+---
+
+## 🌐 Languages
+
+- **Swedish** (Native)  
+- **English** (Fluent)  
+
+---
+
+## ⚽️ Interests
+
+- Football  
+- Tennis  
+- Music
+- Books  
+
+---
+
+Feel free to explore my repositories, drop me a message, or connect on LinkedIn!  
