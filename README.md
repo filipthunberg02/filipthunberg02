@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a recent graduate in Engineering and Compute
 ## 📫 Contact Me
 
 - ✉️ Email: [filip.thunberg02@outlook.com](mailto:filip.thunberg02@outlook.com)  
-- 🔗 LinkedIn: [filip-thunberg](https://www.linkedin.com/in/filip-thunberg)  
+- 🔗 LinkedIn: [filip-thunberg](https://www.linkedin.com/in/filip-thunberg-9560692b4/)  
 - 🐙 GitHub: [filipthunberg02](https://github.com/filipthunberg02)  
 
 ---
